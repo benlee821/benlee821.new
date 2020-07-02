@@ -1,0 +1,41 @@
+.badge-secondary {
+	color: pink;
+	display: flex;
+    justify-content: center;
+}
+
+p{
+	text-align: center;
+}
+
+h1{
+	display: flex;
+	justify-content: center;
+}
+
+h2{
+	text-align: center
+}
+
+.mind {
+    font-family: 'Lobster', cursive;
+    font-size: 2em;
+    column-fill: auto;
+}
+
+h4 {
+	column-span: all;
+	column-fill: auto;
+}
+
+.emoji {
+	font-size: 3em
+}
+
+.buffer {
+	height: 50px;
+}
+
+.container {
+	background-color: blue
+}
